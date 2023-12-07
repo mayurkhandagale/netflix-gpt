@@ -15,6 +15,9 @@
   -Creadted redux store with user slice
   -Implemented sign out
   -Update Profile
+  -Buf fix: Sign up user displayName and profile picture update
+  -Bugfix: If the user is not signed in Redirect/Browse to Login page and vice versa
+  -Unsubscribe to onAuthStateChanged callback
 
 # Features
 
