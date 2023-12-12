@@ -14,3 +14,6 @@ export const API_OPTIONS = {
 };
 
 export const IMG_URL_CARD = 'https://image.tmdb.org/t/p/w500/';
+
+export const SUPPORTED_LANGUAGES = [{ identifier: 'en', language: 'English' },
+{ identifier: 'hindi', language: 'Hindi' }, { identifier: 'spanish', language: 'Spanish' },];
